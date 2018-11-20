@@ -1,6 +1,6 @@
 # safemap
 safemap is a simple thread-safe map in golang
-sample:
+- sample:
 
 ```
 m := util.NewSmap()
