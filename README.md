@@ -1,6 +1,7 @@
 # safemap
 safemap is a simple thread-safe map in golang
 - feature:  All operations such as get/set are finished by one goroutine instead of using locks.
+- TODO: 处理多个信号同时到达的情况。
 - sample:
 
 ```
